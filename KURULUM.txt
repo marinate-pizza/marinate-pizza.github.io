@@ -1,0 +1,10 @@
+PIZZA MARINATE - GITHUB PAGES
+
+1. ZIP dosyasini bilgisayarinda ac.
+2. GitHub hesabinda herkese acik (Public) bir depo olustur.
+3. Dosyalari ve assets klasorunu deponun ana dizinine yukle; ZIP dosyasini oldugu gibi yukleme.
+4. Settings > Pages > Build and deployment > Deploy from a branch sec.
+5. Branch: main, Folder: / (root), Save.
+6. GitHub Pages tarafindan verilen canli adresi telefondan kontrol et.
+
+Adres GitHub kullanici adina baglidir. QR, gercek yayin adresi belli olduktan sonra hazirlanmalidir.
